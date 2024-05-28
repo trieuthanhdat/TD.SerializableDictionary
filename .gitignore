@@ -99,3 +99,5 @@ crashlytics-build.properties
 # Log files can be ignored.
 fmod_editor.log
 UIElementsSchema
+# Ensure the UnityPackage folder is not ignored
+!UnityPackage/
